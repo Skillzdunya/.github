@@ -23,4 +23,20 @@ IT firms are listed alongside.
 - **[Jobs API](https://github.com/Skillzdunya/jobs-api)** — free JSON API, no key: every job with posts, BPS, age limits, qualifications and cities. [OpenAPI spec](https://skillzdunya.com/api/v1/openapi.json)
 - **Monthly Pakistan job market report** — ads and vacancies by province, sector and BPS, built from our ad archive.
 
+## Follow SkillzDunya
+
+[WhatsApp channel](https://whatsapp.com/channel/0029Vb8JDMh11ulY3aGoNH05) ·
+[YouTube](https://www.youtube.com/@SkillzDunya) ·
+[Facebook](https://www.facebook.com/skillzdunya2026) ·
+[Instagram](https://www.instagram.com/skillzdunya2026/) ·
+[TikTok](https://www.tiktok.com/@skillzdunya2026) ·
+[X](https://x.com/skillzdunya) ·
+[LinkedIn](https://www.linkedin.com/company/skillzdunya/) ·
+[Threads](https://www.threads.com/@skillzdunya2026) ·
+[Pinterest](https://www.pinterest.com/skillzdunya/) ·
+[Bluesky](https://bsky.app/profile/skillzdunya.bsky.social) ·
+[Medium](https://medium.com/@skillzdunya) ·
+[Quora](https://www.quora.com/profile/Skillz-Dunya) ·
+[Reddit](https://www.reddit.com/user/Potential-Rough-9564/)
+
 Contact: info@skillzdunya.com
